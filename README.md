@@ -1,5 +1,6 @@
 # repo-viz
-Visualize the growth of GitHub projects over time
+A tool to visualize GitHub repositories as directory trees at a specific commit in a way that helps to visualize the growth of projects over time.
+
 __[Work In Progress]__
 
 ### TODO:
